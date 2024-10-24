@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://fregmunt-s.tplinkdns.com/index.html</loc>
+        <image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_1.jpg</image:loc>
+        </image:image>
+
+        <image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_2.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_3.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_4.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_5.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_6.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_7.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_8.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_9.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_10.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_11.jpg</image:loc>
+        </image:image>
+
+	<image:image>
+          <image:loc>https://fregmunt-s.tplinkdns.com/images/product/p_tip_12.jpg</image:loc>
+        </image:image>
+
+
+		
+</url>
+</urlset>
